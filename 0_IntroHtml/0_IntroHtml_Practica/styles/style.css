@@ -1,8 +1,11 @@
 body {
-    margin: 0%;
+  margin: 0%;
   }
-  header img {
-    width: 360px;
+  header {
+    background-color: white;
+  }
+  header img { width: 360px;
+    
   }
   nav {
     background-color:  #C72D82;
